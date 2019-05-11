@@ -1,5 +1,5 @@
 {
-  "name": "google-book-search",
+  "name": "remy-google-book",
   "version": "1.0.0",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RemyX1/google-book-search.git"
+    "url": "git+https://github.com/RemyX1/Remy-google-book.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RemyX1/google-book-search/issues"
+    "url": "https://github.com/RemyX1/Remy-google-book/issues"
   },
-  "homepage": "https://github.com/RemyX1/google-book-search#readme"
+  "homepage": "https://github.com/RemyX1/Remy-google-book#readme"
 }

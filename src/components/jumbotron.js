@@ -1,15 +1,14 @@
 import React from "react";
-import { Jumbotron } from 'reactstrap';
 
-function Jumbi(props) {
+function Jumbotron({ children }) {
     return (
-        <div>
-            <Jumbotron>
-                <h1 className="display-5 text-center" >(React) Google Books Search</h1>
-                <p className="lead text-center" > Search for and Save Books of Interes</p>
-            </Jumbotron>
+        <div className="jumbotron jumbotron-fluid">
+            <div className="container">
+                <h1 className="display-4">(React) Google Books Search</h1>
+                <p className="lead">This is an app to search for Books.</p>
+            </div>
         </div>
-    )
+    );
 }
 
-export default Jumbi;
+export default Jumbotron;
